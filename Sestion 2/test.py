@@ -7,3 +7,4 @@ def total(args):
     total=x+y
     
     
+    
