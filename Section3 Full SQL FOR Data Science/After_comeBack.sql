@@ -9,8 +9,3 @@ use test
 go
 select * from peoples
 
-
-
-
-
-
