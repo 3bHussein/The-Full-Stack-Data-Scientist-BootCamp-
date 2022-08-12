@@ -8,7 +8,3 @@ insert into peoples (id,name) values (1,'Ahmed')
 use test
 go
 select * from peoples
-
-
-
-
